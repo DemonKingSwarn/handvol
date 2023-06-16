@@ -2,6 +2,7 @@
 
 This script lets you change your system volume just by using your fingers
 
+./.assets/handvol_preview.mp4
 
 ## Install
 
