@@ -2,7 +2,7 @@
 
 This script lets you change your system volume just by using your fingers
 
-[![](https://github.com/DemonKingSwarn/handvol/raw/master/.assets/handvol_preview.webm)]
+[![handvol_preview.webm](https://github.com/DemonKingSwarn/handvol/raw/master/.assets/handvol_preview.webm)]
 
 ## Install
 
